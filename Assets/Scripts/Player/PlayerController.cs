@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.EventSystems;
-using UnityEngine.Animations;
+//using UnityEngine.Animations;
 
 namespace movement
 {
@@ -74,7 +74,7 @@ namespace movement
         public void Sound()
         {
            
-            audioS.Play();
+            //audioS.Play();
         }
         
 

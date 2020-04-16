@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
-using UnityEngine.Animations;
+//using UnityEngine.Animations;
 
 public class NetworkInput : NetworkBehaviour
 {
